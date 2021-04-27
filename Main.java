@@ -87,17 +87,6 @@ public class Main {
         createLoginMapOfEmployees(new Employee[]{employee1, employee2, employee3, employee4},
                 new String[]{"63656725", "8656749", "858358", "9476037"});
 
-
-
-
-
-
-
-
-
-
-
-
         //filter(employeeList);
 
         //show(hashEmployee);
